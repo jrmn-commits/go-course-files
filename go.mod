@@ -1,4 +1,4 @@
-module unique/name
+module github.com/jrmn-commits/goprogram
 
 go 1.21.3
 
